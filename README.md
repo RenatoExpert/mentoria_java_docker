@@ -11,3 +11,7 @@ https://youtube.com/live/mw72A2QM1zc?feature=share
 3. Deploy de containers (configurações de porta, limites para recursos)
 4. Multistage
 5. Criando interatividade com a aplicação via terminal (factor)
+
+## Referências
+### Usando input com a classe Scanner
+https://www.w3schools.com/java/java_user_input.asp
