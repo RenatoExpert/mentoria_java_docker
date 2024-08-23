@@ -17,4 +17,5 @@ https://youtube.com/live/mw72A2QM1zc?feature=share
 https://www.w3schools.com/java/java_user_input.asp
 ### Curso de Docker da Linux Tips
 https://youtube.com/playlist?list=PLf-O3X2-mxDn1VpyU2q3fuI6YYeIWp5rR&si=GBuzEIo8A_yEDVLw
-
+### Imagens de OpenJDK no Dockerhub
+https://hub.docker.com/_/openjdk
